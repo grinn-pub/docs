@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "Grinn Wiki"
+project = "Grinn Docs"
 copyright = "2025, Grinn sp. z o.o."
 author = "Grinn sp. z o.o."
 
