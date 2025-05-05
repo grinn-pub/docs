@@ -1,4 +1,4 @@
-Grinn Wiki
+Grinn Docs
 ========================
 
 .. toctree::
