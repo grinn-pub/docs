@@ -3,5 +3,7 @@ Grinn Wiki
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: QUICK START GUIDES
 
+   products/astra/index
+   products/genio/index
