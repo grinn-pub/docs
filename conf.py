@@ -35,8 +35,8 @@ html_show_sphinx = False
 
 html_permalinks_icon = Icons.permalinks_icon
 html_theme_options = {
-    "logo_light": "_static/logo_light.svg",
-    "logo_dark": "_static/logo_dark.svg",
+    "logo_light": "_static/logo.svg",
+    "logo_dark": "_static/logo.svg",
     "awesome_external_links": True,
     "show_scrolltop": True,
 }
