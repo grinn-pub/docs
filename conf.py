@@ -27,12 +27,12 @@ html_css_files = ["custom.css"]
 html_title = "GRINN"
 html_baseurl = "https://grinn-global.github.io"
 html_favicon = "_static/favicon.ico"
-html_theme = "sphinxawesome_theme"
 html_show_sphinx = False
 
 # -- Options for HTML theme --------------------------------------------------
 # https://sphinxawesome.xyz/how-to/configure/
 
+html_theme = "sphinxawesome_theme"
 html_permalinks_icon = Icons.permalinks_icon
 html_theme_options = {
     "logo_light": "_static/logo.svg",
