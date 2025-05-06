@@ -2,7 +2,7 @@ Grinn Docs
 ========================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: PRODUCTS
 
    products/astra/index
