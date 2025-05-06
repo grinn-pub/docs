@@ -18,10 +18,10 @@ Follow these steps to install the ``repo`` tool in your local ``~/bin`` director
 
 .. code-block:: console
 
-   $ mkdir -p ~/bin
-   $ PATH="${HOME}/bin:${PATH}"
-   $ curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
-   $ chmod a+rx ~/bin/repo
+   mkdir -p ~/bin
+   PATH="${HOME}/bin:${PATH}"
+   curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
+   chmod a+rx ~/bin/repo
 
 This ensures the ``repo`` command is available in your shell environment.
 
