@@ -1,4 +1,4 @@
 Build Prerequisites
 ========================
 
-.. include:: ../../common/build_prerequisites.rst
+.. include:: ../../common/build_prerequisites.inc
