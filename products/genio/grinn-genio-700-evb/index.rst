@@ -1,6 +1,16 @@
 Grinn GenioEVB-700
 ========================
 
+.. list-table::
+   :width: 100%
+   :class: borderless
+
+   * - .. image:: images/front.png
+          :width: 100%
+         
+     - .. image:: images/back.png
+          :width: 100%
+
 .. toctree::
    :maxdepth: 2
 
