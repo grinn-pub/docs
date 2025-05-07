@@ -1,0 +1,1 @@
+how to download the prebuilt image, say that its easier and faster

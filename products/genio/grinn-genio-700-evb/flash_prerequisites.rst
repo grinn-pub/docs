@@ -1,6 +1,6 @@
 Flash Prerequisites
 ========================
 
-.. include:: ../common/flash_prerequisites.inc
+.. include:: /products/genio/common/flash_prerequisites.inc
 
 

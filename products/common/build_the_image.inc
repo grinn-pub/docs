@@ -24,7 +24,8 @@ Start the Grinn Yocto Docker container, mounting the current working directory i
     docker run -it \
         -e CUSTOM_UID=$(id -u) \
         -e CUSTOM_GID=$(id -g) \
-        -v "$(pwd):/home/yoctouser/ws" \
+        -v $(pwd):$(pwd) \
+        -w $(pwd) \
         ghcr.io/grinn-global/grinn-yocto-container
 
 

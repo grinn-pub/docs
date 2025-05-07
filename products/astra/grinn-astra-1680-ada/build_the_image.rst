@@ -5,4 +5,4 @@ Build The Image
 .. |MACHINE| replace:: grinn-astra-1680-ada
 .. |IMAGE| replace:: astra-media
 
-.. include:: ../../common/build_the_image.inc
+.. include:: /products/common/build_the_image.inc
