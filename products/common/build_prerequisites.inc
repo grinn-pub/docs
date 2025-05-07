@@ -6,7 +6,6 @@ System Requirements
 
 To successfully build the image, ensure your system meets the following requirements:
 
-- A Linux host system (Ubuntu 22.04 recommended)
 - Minimum 200 GiB of free disk space
 - At least 16 GiB of RAM
 - Internet connection

@@ -9,10 +9,10 @@ This will download the necessary layers for the build.
 
 .. parsed-literal::
 
-    mkdir |PRODUCT_FAMILY|
-    cd |PRODUCT_FAMILY|
-    repo init -u https\://github.com/grinn-global/manifest-grinn-|PRODUCT_FAMILY|.git -b kirkstone
-    repo sync
+    $ mkdir |PRODUCT_FAMILY|
+    $ cd |PRODUCT_FAMILY|
+    $ repo init -u https\://github.com/grinn-global/manifest-grinn-|PRODUCT_FAMILY|.git -b kirkstone
+    $ repo sync
 
 Run the Docker Container
 ------------------------
@@ -21,7 +21,7 @@ Start the Grinn Yocto Docker container, mounting the current working directory i
 
 .. code-block:: console
 
-    docker run -it \
+    $ docker run -it \
         -e CUSTOM_UID=$(id -u) \
         -e CUSTOM_GID=$(id -g) \
         -v $(pwd):$(pwd) \
@@ -36,8 +36,8 @@ Set the ``TEMPLATECONF`` environment variable and source the Yocto environment s
 
 .. parsed-literal::
 
-    export TEMPLATECONF=$(pwd)/src/meta-grinn-|PRODUCT_FAMILY|/conf/templates/default
-    source src/poky/oe-init-build-env
+    $ export TEMPLATECONF=$(pwd)/src/meta-grinn-|PRODUCT_FAMILY|/conf/templates/default
+    $ source src/poky/oe-init-build-env
 
 
 Build the Image
@@ -47,7 +47,7 @@ Set the ``MACHINE`` variable to specify the target hardware platform. Then run `
 
 .. parsed-literal::
 
-    export MACHINE=\ |MACHINE|
-    bitbake |IMAGE|
+    $ export MACHINE=\ |MACHINE|
+    $ bitbake |IMAGE|
 
 The ``MACHINE`` variable determines the hardware-specific configuration and device tree.

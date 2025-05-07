@@ -1,4 +1,4 @@
-Build The Image
+Build the Image
 ========================
 .. |PRODUCT_FAMILY| replace:: genio
 .. |MACHINE| replace:: grinn-genio-700-evb
