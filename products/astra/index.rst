@@ -1,4 +1,4 @@
-Grinn Astra
+Astra
 ========================
 
 .. toctree::

@@ -1,4 +1,4 @@
-Grinn Genio
+Genio
 ========================
 
 .. toctree::
