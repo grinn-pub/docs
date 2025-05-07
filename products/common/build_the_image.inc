@@ -50,4 +50,12 @@ Set the ``MACHINE`` variable to specify the target hardware platform. Then run `
     $ export MACHINE=\ |MACHINE|
     $ bitbake |IMAGE|
 
-The ``MACHINE`` variable determines the hardware-specific configuration and device tree.
+.. note::
+
+    The build process may take a while, depending on your system's resources.
+
+After the build completes, verify that the image was created by checking the output directory.
+
+.. parsed-literal::
+
+    $ ls tmp/deploy/images/|MACHINE|
