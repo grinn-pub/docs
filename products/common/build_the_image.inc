@@ -1,10 +1,10 @@
-This section provides step-by-step instructions for setting up the workspace, starting the containerized build environment, 
+This section provides step-by-step instructions for setting up the workspace, starting the containerized build environment,
 preparing the Yocto configuration, and starting the image build process.
 
 Initialize the Workspace
 ------------------------
 
-Create a new directory for the build environment and initialize ``repo`` with the appropriate manifest. 
+Create a new directory for the build environment and initialize ``repo`` with the appropriate manifest.
 This will download the necessary layers for the build.
 
 .. parsed-literal::
