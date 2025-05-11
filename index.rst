@@ -9,7 +9,9 @@ Embedded Platforms Docs
    products/astra/index
    products/genio/index
 
-This documentation provides everything you need to work with Grinn's embedded platforms, from prebuilt images to complete build and flash workflows. Whether you're evaluating hardware or integrating it into production, this guide will help you get up and running quickly.
+This documentation covers all aspects of working with Grinn's embedded platforms from the Astra and Genio series. It includes detailed information on the hardware, software, and development tools available for these platforms, as well as step-by-step guides for building and flashing images.
+
+Whether you're evaluating the hardware or integrating it into your production environment, this guide provides the necessary steps to help you get started quickly and effectively.
 
 Grinn AstraADA-1680
 -------------------
@@ -29,7 +31,7 @@ The Grinn AstraADA is a compact adapter module that connects the AstraSOM-1680 w
    </div>
    </div>
 
-For more details, visit the `Grinn AstraADA-1680 page <products/astra/grinn-astra-1680-ada/index.html>`_
+For more details, visit the `Grinn AstraADA-1680 page <products/astra/grinn-astra-1680-ada/index.html>`_.
 
 Grinn AstraEVB-1680
 -------------------
@@ -49,7 +51,7 @@ Grinn AstraEVB-1680 is an advanced evaluation board powered by the AstraSOM-1680
    </div>
    </div>
 
-For more details, visit the `Grinn AstraEVB-1680 page <products/astra/grinn-astra-1680-evb/index.html>`_
+For more details, visit the `Grinn AstraEVB-1680 page <products/astra/grinn-astra-1680-evb/index.html>`_.
 
 Grinn GenioSOM-700
 ------------------
@@ -69,4 +71,4 @@ Grinn GenioEVB-700 is a feature-rich evaluation board designed to demonstrate th
    </div>
    </div>
 
-For more details, visit the `Grinn GenioEVB-700 page <products/genio/grinn-genio-700-evb/index.html>`_
+For more details, visit the `Grinn GenioEVB-700 page <products/genio/grinn-genio-700-evb/index.html>`_.
