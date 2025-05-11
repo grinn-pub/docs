@@ -13,11 +13,11 @@ To successfully build the image, ensure your system meets the following requirem
 Install the ``repo`` Tool
 ----------------------------
 
-To install the ``repo`` tool, follow instructions from the `official Repo website <https://gerrit.googlesource.com/git-repo>`_
+To install the ``repo`` tool, follow instructions from the `official Repo website <https://gerrit.googlesource.com/git-repo>`_.
 
 
 Install the ``docker`` Tool
 ------------------------------
 
 The installation process varies depending on your operating system.
-To install the ``docker`` tool, follow instructions from the `official Docker website <https://docs.docker.com/engine/install/>`_
+To install the ``docker`` tool, follow instructions from the `official Docker website <https://docs.docker.com/engine/install/>`_.

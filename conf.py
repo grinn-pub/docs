@@ -37,6 +37,5 @@ html_permalinks_icon = Icons.permalinks_icon
 html_theme_options = {
     "logo_light": "_static/logo.svg",
     "logo_dark": "_static/logo.svg",
-    "awesome_external_links": True,
     "show_scrolltop": True,
 }
