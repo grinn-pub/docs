@@ -21,14 +21,14 @@ The Grinn AstraADA is a compact adapter module that connects the AstraSOM-1680 w
 .. raw:: html
 
    <div class="card-container">
-   <div class="card">
-      <div class="front">
-         <img src="_static/images/grinn-astra-1680-ada/front.webp" alt="Front of Grinn AstraEVB-1680" />
+      <div class="card">
+         <div class="front">
+            <img src="_static/images/grinn-astra-1680-ada/front.webp" alt="Front of Grinn AstraADA-1680" />
+         </div>
+         <div class="back">
+            <img src="_static/images/grinn-astra-1680-ada/back.webp" alt="Back of Grinn AstraADA-1680" />
+         </div>
       </div>
-      <div class="back">
-         <img src="_static/images/grinn-astra-1680-ada/back.webp" alt="Back of Grinn AstraEVB-1680" />
-      </div>
-   </div>
    </div>
 
 For more details, visit the `Grinn AstraADA-1680 page <products/astra/grinn-astra-1680-ada/index.html>`_.
@@ -41,19 +41,19 @@ Grinn AstraEVB-1680 is an advanced evaluation board powered by the AstraSOM-1680
 .. raw:: html
 
    <div class="card-container">
-   <div class="card">
-      <div class="front">
-         <img src="_static/images/grinn-astra-1680-evb/front.webp" alt="Front of Grinn AstraEVB-1680" />
+      <div class="card">
+         <div class="front">
+            <img src="_static/images/grinn-astra-1680-evb/front.webp" alt="Front of Grinn AstraEVB-1680" />
+         </div>
+         <div class="back">
+            <img src="_static/images/grinn-astra-1680-evb/back.webp" alt="Back of Grinn AstraEVB-1680" />
+         </div>
       </div>
-      <div class="back">
-         <img src="_static/images/grinn-astra-1680-evb/back.webp" alt="Back of Grinn AstraEVB-1680" />
-      </div>
-   </div>
    </div>
 
 For more details, visit the `Grinn AstraEVB-1680 page <products/astra/grinn-astra-1680-evb/index.html>`_.
 
-Grinn GenioSOM-700
+Grinn GenioEVB-700
 ------------------
 
 Grinn GenioEVB-700 is a feature-rich evaluation board designed to demonstrate the capabilities of the GenioSOM-700 module, streamlining development of AI, IoT, and multimedia applications. It supports rapid prototyping with advanced debugging tools, Raspberry Pi HAT compatibility, and versatile interfaces for displays, cameras, and wireless modules.
@@ -61,14 +61,14 @@ Grinn GenioEVB-700 is a feature-rich evaluation board designed to demonstrate th
 .. raw:: html
 
    <div class="card-container">
-   <div class="card">
-      <div class="front">
-         <img src="_static/images/grinn-genio-700-evb/front.webp" alt="Front of Grinn GenioEVB-700" />
+      <div class="card">
+         <div class="front">
+            <img src="_static/images/grinn-genio-700-evb/front.webp" alt="Front of Grinn GenioEVB-700" />
+         </div>
+         <div class="back">
+            <img src="_static/images/grinn-genio-700-evb/back.webp" alt="Back of Grinn GenioEVB-700" />
+         </div>
       </div>
-      <div class="back">
-         <img src="_static/images/grinn-genio-700-evb/back.webp" alt="Back of Grinn GenioEVB-700" />
-      </div>
-   </div>
    </div>
 
 For more details, visit the `Grinn GenioEVB-700 page <products/genio/grinn-genio-700-evb/index.html>`_.
