@@ -24,7 +24,7 @@ extensions = []
 
 html_static_path = ["_static"]
 html_css_files = ["custom.css"]
-html_title = "GRINN"
+html_title = "Grinn"
 html_baseurl = "https://grinn-global.github.io"
 html_favicon = "_static/favicon.ico"
 html_show_sphinx = False
