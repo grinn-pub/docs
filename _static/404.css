@@ -1,0 +1,36 @@
+#page-not-found>h1:nth-child(1) {
+    display: none !important;
+}
+
+#error-page-wrapper {
+    height: 65vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#error-page-content {
+    max-width: 600px;
+    width: 80%;
+    text-align: center;
+}
+
+#error-page-image {
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+#error-page-title {
+    margin-top: 1.25em;
+}
+
+#error-page-message {
+    margin-top: 1.25em;
+}
+
+#error-page-button {
+    margin-top: 2em;
+}
