@@ -20,6 +20,7 @@ The Grinn AstraADA is a compact adapter module that connects the AstraSOM-1680 w
 
 .. raw:: html
 
+   <link rel="stylesheet" href="_static/flip.css">
    <div class="card-container">
       <div class="card">
          <div class="front">
