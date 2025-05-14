@@ -1,0 +1,13 @@
+/* Centered footer */
+footer > .container {
+  justify-content: center !important;
+}
+
+/* More compact list items */
+#content ul:not(.search) p, #content ul:not(.search) > li {
+  margin-top: 0.5rem !important;
+}
+
+#content ul:not(.search) {
+  margin-top: 1rem !important;
+}
